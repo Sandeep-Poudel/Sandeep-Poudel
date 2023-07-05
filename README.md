@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-poudel" alt="sandeep-poudel" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Python**
+- 🌱 I’m currently learning **React.js, Python, C++**
 
 - 📫 How to reach me **poudelsandeep0105@gmial.com**
 
