@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-poudel&show_icons=true&locale=en" alt="sandeep-poudel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-poudel&" alt="sandeep-poudel" /></p>
-<img href="https://github-tracker-mu.vercel.app/tracker.png"/>
+<p><img href="https://github-tracker-mu.vercel.app/tracker.png"/></p>
